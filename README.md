@@ -5,6 +5,7 @@
 * [Even Better TOML](https://marketplace.visualstudio.com/items?itemName=tamasfe.even-better-toml)
 * [Lalrpop Syntax Highlight](https://marketplace.visualstudio.com/items?itemName=Guyutongxue.lalrpop-syntax-highlight)
 * [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+* [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
 * [PowerShell](https://marketplace.visualstudio.com/items?itemName=ms-vscode.PowerShell)
 * [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 * [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
