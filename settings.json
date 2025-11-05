@@ -1,3 +1,4 @@
 {
+    "telemetry.telemetryLevel": "off",
     "workbench.iconTheme": "vscode-icons"
 }
