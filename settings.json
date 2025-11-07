@@ -1,4 +1,5 @@
 {
+    "editor.minimap.enabled": false,
     "telemetry.telemetryLevel": "off",
     "terminal.integrated.scrollback": 200000,
     "workbench.iconTheme": "vscode-icons"
