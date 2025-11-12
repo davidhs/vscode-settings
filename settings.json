@@ -1,6 +1,8 @@
 {
     "editor.minimap.enabled": false,
+    "editor.wordWrap": "on",
     "telemetry.telemetryLevel": "off",
     "terminal.integrated.scrollback": 200000,
+    "todo-tree.regex.regex": "(($TAGS):?)",
     "workbench.iconTheme": "vscode-icons"
 }
