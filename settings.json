@@ -1,6 +1,7 @@
 {
     "editor.minimap.enabled": false,
     "editor.wordWrap": "on",
+    "rust-analyzer.check.command": "clippy",
     "telemetry.telemetryLevel": "off",
     "terminal.integrated.scrollback": 200000,
     "todo-tree.general.tags": ["[ ]", "[x]", "BUG", "HACK", "FIXME", "NOTE", "TODO", "XXX"],
