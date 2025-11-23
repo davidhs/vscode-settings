@@ -1,6 +1,7 @@
 {
     "editor.minimap.enabled": false,
     "editor.wordWrap": "on",
+    "explorer.autoReveal": "focusNoScroll",
     "rust-analyzer.check.command": "clippy",
     "telemetry.telemetryLevel": "off",
     "terminal.integrated.scrollback": 200000,
