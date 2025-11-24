@@ -1,4 +1,5 @@
 {
+    "editor.autoClosingBrackets": "never",
     "editor.minimap.enabled": false,
     "editor.wordWrap": "on",
     "explorer.autoReveal": "focusNoScroll",
