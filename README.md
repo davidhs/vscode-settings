@@ -2,6 +2,7 @@
 
 ## Extensions
 
+* [EBNF Tools](https://marketplace.visualstudio.com/items?itemName=igochkov.vscode-ebnf)
 * [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
 * [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 * [Even Better TOML](https://marketplace.visualstudio.com/items?itemName=tamasfe.even-better-toml)
